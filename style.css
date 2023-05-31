@@ -1,0 +1,33 @@
+.hero {
+    height: 100dvh;
+    width: 100dvw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./herobg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+
+.about {
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+.contact {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
